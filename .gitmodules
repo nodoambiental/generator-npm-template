@@ -1,0 +1,3 @@
+[submodule "generators/app/templates/npm"]
+	path = generators/app/templates/npm
+	url = git@github.com:nodoambiental/npm-template.git
